@@ -102,46 +102,35 @@ Balanced Finetuned Models and Masked Generative Pretrained Models.
 <tbody> 
   <tr>
     <td class="tg-57iy">ImageNet-LT</td>
-    <td class="tg-57iy">224*224</td>
-    <td class="tg-57iy">73.6</td>
-    <td class="tg-57iy">56.4</td>
-    <td class="tg-57iy">41.0</td>
-    <td class="tg-57iy">60.9</td>
+    <td class="tg-57iy">256*256</td>
+    <td class="tg-57iy">76.6</td>
+    <td class="tg-57iy">61.5</td>
+    <td class="tg-57iy">42.3</td>
+    <td class="tg-57iy">64.7</td>
     <td class="tg-57iy"><a href="https://drive.google.com/file/d/1v-aofP9XohtlVhqV-OZT_V6KOOx486Rd/view?usp=share_link">download</a></td>
     <td class="tg-57iy"><span style="color:#000"><a href="https://drive.google.com/file/d/1ZOnx67skoH7vBEgKWhPzM8RSBcbz-GtX/view?usp=share_link">download</a></td>
     <td class="tg-57iy"><span style="color:#000"><a href="https://drive.google.com/file/d/1em86e9VHlfZy9aWgJqy6-H2primsNJKW/view?usp=share_link">download</a></td>
     <td class="tg-57iy" rowspan="2"><a href="https://drive.google.com/file/d/1vAbWTZWEofOvdvun2sfAH7K9aBbnG0Co/view?usp=share_link">Res_224</a></td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">ImageNet-LT</td>
-    <td class="tg-nrix">384*384</td>
-    <td class="tg-nrix">76.4</td>
-    <td class="tg-nrix">59.7</td>
-    <td class="tg-nrix">42.7</td>
-    <td class="tg-nrix">63.8</td>
-    <td class="tg-nrix"><span style="color:#000"><a href="https://drive.google.com/file/d/1sTZYVXJDnGHyyKOhoYRzKoqRK6EyHrkp/view?usp=share_link">download</a></span></td>
-    <td class="tg-nrix"><span style="color:#000"><a href="https://drive.google.com/file/d/1Zm3Han6_6KVQFdh2Ftr0qHqcC-EbrIGp/view?usp=share_link">download</a></span></td>
-    <td class="tg-nrix"><span style="color:#000"><a href="https://drive.google.com/file/d/1lOoOvJtBycij7wqqP47vzQFHWX0_Q7II/view?usp=share_link">download</a></span></td>
-  </tr>
+    </tr>
   <tr>
     <td class="tg-57iy">iNat18</td>
     <td class="tg-57iy">224*224</td>
-    <td class="tg-57iy">78.9</td>
-    <td class="tg-57iy">76.5</td>
-    <td class="tg-57iy">74.8</td>
-    <td class="tg-57iy">76.1</td>
+    <td class="tg-57iy">77.7</td>
+    <td class="tg-57iy">78.6</td>
+    <td class="tg-57iy">78.8</td>
+    <td class="tg-57iy">78.6</td>
     <td class="tg-57iy"><a href="https://drive.google.com/file/d/1fSb0HH1qlfEbfnWEehdrbIWZjI8MHJGY/view?usp=share_link">download</a></td>
     <td class="tg-57iy"><span style="color:#000"><a href="https://drive.google.com/file/d/1TMMKKRvLJzlV-AeA1pKHDQV3nVLJI5W1/view?usp=share_link">download</a></span></td>
     <td class="tg-57iy"><span style="color:#000"><a href="https://drive.google.com/file/d/1ArJfsdVMrl8wU2FTgD-5X8KyQnQRC16X/view?usp=share_link">download</a></span></td>
     <td class="tg-57iy" rowspan="2"><a href="https://drive.google.com/file/d/1iKJRd_k08ye2sHteAi55ZFG8tFk-1YdB/view?usp=share_link">Res_128</a></td>
   </tr>
   <tr>
-    <td class="tg-nrix">iNat18</td>
-    <td class="tg-nrix">384*384</td>
-    <td class="tg-nrix">83.2</td>
-    <td class="tg-nrix">81.5</td>
-    <td class="tg-nrix">79.7</td>
-    <td class="tg-nrix">81.0</td>
+    <td class="tg-nrix">Places-LT</td>
+    <td class="tg-nrix">256*256</td>
+    <td class="tg-nrix">45.7</td>
+    <td class="tg-nrix">37.8</td>
+    <td class="tg-nrix">26.5</td>
+    <td class="tg-nrix">38.4</td>
     <td class="tg-nrix"><span style="color:#000"><a href="https://drive.google.com/file/d/1dSdO2ImAMBUiwsCSi9XlyKQ7H3Ee93Zq/view?usp=share_link">download</a></span></td>
     <td class="tg-nrix"><span style="color:#000"><a href="https://drive.google.com/file/d/19xxTmlnaxrkXCTQoWFDCuN4RsLE8bE6f/view?usp=share_link">download</a></span></td>
     <td class="tg-nrix"><span style="color:#000"><a href="https://drive.google.com/file/d/1dpVbiK1ajmLdvt9Xmo7xOCGdIe56_QZE/view?usp=share_link">download</a></span></td>
