@@ -96,7 +96,6 @@ Balanced Finetuned Models and Masked Generative Pretrained Models.
     <th class="tg-nrix">args</th>
     <th class="tg-nrix">log</th>
     <th class="tg-nrix">ckpt</th>
-    <th class="tg-nrix">MGP ckpt</th>
   </tr>
 </thead>
 <tbody> 
@@ -110,7 +109,6 @@ Balanced Finetuned Models and Masked Generative Pretrained Models.
     <td class="tg-57iy"><a href="https://drive.google.com/file/d/1v-aofP9XohtlVhqV-OZT_V6KOOx486Rd/view?usp=share_link">download</a></td>
     <td class="tg-57iy"><span style="color:#000"><a href="https://drive.google.com/file/d/1ZOnx67skoH7vBEgKWhPzM8RSBcbz-GtX/view?usp=share_link">download</a></td>
     <td class="tg-57iy"><span style="color:#000"><a href="https://drive.google.com/file/d/1em86e9VHlfZy9aWgJqy6-H2primsNJKW/view?usp=share_link">download</a></td>
-    <td class="tg-57iy" rowspan="2"><a href="https://drive.google.com/file/d/1vAbWTZWEofOvdvun2sfAH7K9aBbnG0Co/view?usp=share_link">Res_224</a></td>
     </tr>
   <tr>
     <td class="tg-57iy">iNat18</td>
@@ -122,7 +120,6 @@ Balanced Finetuned Models and Masked Generative Pretrained Models.
     <td class="tg-57iy"><a href="https://drive.google.com/file/d/1fSb0HH1qlfEbfnWEehdrbIWZjI8MHJGY/view?usp=share_link">download</a></td>
     <td class="tg-57iy"><span style="color:#000"><a href="https://drive.google.com/file/d/1TMMKKRvLJzlV-AeA1pKHDQV3nVLJI5W1/view?usp=share_link">download</a></span></td>
     <td class="tg-57iy"><span style="color:#000"><a href="https://drive.google.com/file/d/1ArJfsdVMrl8wU2FTgD-5X8KyQnQRC16X/view?usp=share_link">download</a></span></td>
-    <td class="tg-57iy" rowspan="2"><a href="https://drive.google.com/file/d/1iKJRd_k08ye2sHteAi55ZFG8tFk-1YdB/view?usp=share_link">Res_128</a></td>
   </tr>
   <tr>
     <td class="tg-nrix">Places-LT</td>
@@ -133,7 +130,7 @@ Balanced Finetuned Models and Masked Generative Pretrained Models.
     <td class="tg-nrix">38.4</td>
     <td class="tg-nrix"><span style="color:#000"><a href="https://drive.google.com/file/d/1dSdO2ImAMBUiwsCSi9XlyKQ7H3Ee93Zq/view?usp=share_link">download</a></span></td>
     <td class="tg-nrix"><span style="color:#000"><a href="https://drive.google.com/file/d/19xxTmlnaxrkXCTQoWFDCuN4RsLE8bE6f/view?usp=share_link">download</a></span></td>
-    <td class="tg-nrix"><span style="color:#000"><a href="https://drive.google.com/file/d/1dpVbiK1ajmLdvt9Xmo7xOCGdIe56_QZE/view?usp=share_link">download</a></span></td>
+    <td class="tg-nrix"><span style="color:#000"><a href="https://drive.google.com/file/d/19xxTmlnaxrkXCTQoWFDCuN4RsLE8bE6f/view?usp=share_link">download</a></span></td>
   </tr>
 </tbody>
 </table>
