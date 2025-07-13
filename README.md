@@ -106,7 +106,7 @@ Balanced Finetuned Models and Masked Generative Pretrained Models.
 </tr>
   <tr>
     <td class="tg-57iy">iNat18</td>
-    <td class="tg-57iy">224*224</td>
+    <td class="tg-57iy">128*128</td>
     <td class="tg-57iy">77.7</td>
     <td class="tg-57iy">78.6</td>
     <td class="tg-57iy">78.8</td>
