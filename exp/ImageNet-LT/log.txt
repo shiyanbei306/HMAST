@@ -1,0 +1,402 @@
+Start training for 100 epochs
+Accuracy of the network on the 20000 test images: 4.9%
+Max accuracy: 4.86%
+{"train_lr": 0.00019823375354842879, "train_loss": 7.290979454267091, "test_loss": 5.860448770248852, "test_acc1": 4.86, "test_acc5": 13.915, "epoch": 0, "n_parameters": 87715808}
+Training epoch 0 for 0:09:10
+Accuracy of the network on the 20000 test images: 11.8%
+Max accuracy: 11.81%
+{"train_lr": 0.0005982337535484254, "train_loss": 6.7462695779062765, "test_loss": 4.942593790852604, "test_acc1": 11.81, "test_acc5": 29.09, "epoch": 1, "n_parameters": 87715808}
+Training epoch 1 for 0:09:07
+Accuracy of the network on the 20000 test images: 17.0%
+Max accuracy: 16.98%
+{"train_lr": 0.0009982337535484266, "train_loss": 6.466667547146918, "test_loss": 4.339443639444467, "test_acc1": 16.98, "test_acc5": 39.445, "epoch": 2, "n_parameters": 87715808}
+Training epoch 2 for 0:09:07
+Accuracy of the network on the 20000 test images: 21.6%
+Max accuracy: 21.64%
+{"train_lr": 0.0013982337535484199, "train_loss": 6.269801809115963, "test_loss": 3.985792897379817, "test_acc1": 21.635, "test_acc5": 47.24, "epoch": 3, "n_parameters": 87715808}
+Training epoch 3 for 0:09:08
+Accuracy of the network on the 20000 test images: 25.5%
+Max accuracy: 25.47%
+{"train_lr": 0.0017982337535484229, "train_loss": 6.133624344767787, "test_loss": 3.761349099512679, "test_acc1": 25.47, "test_acc5": 51.64, "epoch": 4, "n_parameters": 87715808}
+Training epoch 4 for 0:09:08
+Accuracy of the network on the 20000 test images: 28.5%
+Max accuracy: 28.46%
+{"train_lr": 0.0021982337535484237, "train_loss": 6.009978676764346, "test_loss": 3.538927391314278, "test_acc1": 28.46, "test_acc5": 55.835, "epoch": 5, "n_parameters": 87715808}
+Training epoch 5 for 0:09:07
+Accuracy of the network on the 20000 test images: 30.9%
+Max accuracy: 30.87%
+{"train_lr": 0.0025982337535484248, "train_loss": 5.907189583646659, "test_loss": 3.413727821252597, "test_acc1": 30.87, "test_acc5": 58.515, "epoch": 6, "n_parameters": 87715808}
+Training epoch 6 for 0:09:07
+Accuracy of the network on the 20000 test images: 33.3%
+Max accuracy: 33.30%
+{"train_lr": 0.0029982337535484336, "train_loss": 5.8443325361494205, "test_loss": 3.2362596668755286, "test_acc1": 33.3, "test_acc5": 61.37, "epoch": 7, "n_parameters": 87715808}
+Training epoch 7 for 0:09:09
+Accuracy of the network on the 20000 test images: 35.2%
+Max accuracy: 35.20%
+{"train_lr": 0.003398233753548412, "train_loss": 5.741836468093303, "test_loss": 3.1420531611853897, "test_acc1": 35.2, "test_acc5": 64.035, "epoch": 8, "n_parameters": 87715808}
+Training epoch 8 for 0:09:08
+Accuracy of the network on the 20000 test images: 37.3%
+Max accuracy: 37.27%
+{"train_lr": 0.0037982337535484227, "train_loss": 5.66444144453133, "test_loss": 3.035099076005978, "test_acc1": 37.275, "test_acc5": 65.225, "epoch": 9, "n_parameters": 87715808}
+Training epoch 9 for 0:09:07
+Accuracy of the network on the 20000 test images: 39.4%
+Max accuracy: 39.44%
+{"train_lr": 0.003999599327077326, "train_loss": 5.61992119596808, "test_loss": 2.9165376500961497, "test_acc1": 39.44, "test_acc5": 67.68, "epoch": 10, "n_parameters": 87715808}
+Training epoch 10 for 0:09:08
+Accuracy of the network on the 20000 test images: 41.5%
+Max accuracy: 41.48%
+{"train_lr": 0.003997174489292257, "train_loss": 5.53037422164369, "test_loss": 2.7891108490788517, "test_acc1": 41.485, "test_acc5": 69.18, "epoch": 11, "n_parameters": 87715808}
+Training epoch 11 for 0:09:07
+Accuracy of the network on the 20000 test images: 42.0%
+Max accuracy: 41.99%
+{"train_lr": 0.00399231701120612, "train_loss": 5.481876953333122, "test_loss": 2.783532132736791, "test_acc1": 41.995, "test_acc5": 70.525, "epoch": 12, "n_parameters": 87715808}
+Training epoch 12 for 0:09:07
+Accuracy of the network on the 20000 test images: 43.6%
+Max accuracy: 43.60%
+{"train_lr": 0.003985032810907728, "train_loss": 5.41919535740963, "test_loss": 2.6856793203292946, "test_acc1": 43.605, "test_acc5": 72.075, "epoch": 13, "n_parameters": 87715808}
+Training epoch 13 for 0:09:07
+Accuracy of the network on the 20000 test images: 45.1%
+Max accuracy: 45.12%
+{"train_lr": 0.00397533076307304, "train_loss": 5.350235912878869, "test_loss": 2.620163567149982, "test_acc1": 45.125, "test_acc5": 73.015, "epoch": 14, "n_parameters": 87715808}
+Training epoch 14 for 0:09:07
+Accuracy of the network on the 20000 test images: 46.4%
+Max accuracy: 46.38%
+{"train_lr": 0.003963222688152957, "train_loss": 5.297914135587808, "test_loss": 2.53545232855093, "test_acc1": 46.385, "test_acc5": 73.95, "epoch": 15, "n_parameters": 87715808}
+Training epoch 15 for 0:09:07
+Accuracy of the network on the 20000 test images: 46.9%
+Max accuracy: 46.88%
+{"train_lr": 0.003948723337971607, "train_loss": 5.278515849192498, "test_loss": 2.509087525427151, "test_acc1": 46.885, "test_acc5": 74.44, "epoch": 16, "n_parameters": 87715808}
+Training epoch 16 for 0:09:07
+Accuracy of the network on the 20000 test images: 48.0%
+Max accuracy: 47.98%
+{"train_lr": 0.003931850377753715, "train_loss": 5.23348047384241, "test_loss": 2.442247447114402, "test_acc1": 47.985, "test_acc5": 75.32, "epoch": 17, "n_parameters": 87715808}
+Training epoch 17 for 0:09:06
+Accuracy of the network on the 20000 test images: 48.8%
+Max accuracy: 48.76%
+{"train_lr": 0.0039126243646022815, "train_loss": 5.192184564290126, "test_loss": 2.3871513342324158, "test_acc1": 48.755, "test_acc5": 75.635, "epoch": 18, "n_parameters": 87715808}
+Training epoch 18 for 0:09:07
+Accuracy of the network on the 20000 test images: 49.9%
+Max accuracy: 49.87%
+{"train_lr": 0.0038910687224527007, "train_loss": 5.1348403927370985, "test_loss": 2.3436822361839464, "test_acc1": 49.865, "test_acc5": 76.515, "epoch": 19, "n_parameters": 87715808}
+Training epoch 19 for 0:09:07
+Accuracy of the network on the 20000 test images: 49.8%
+Max accuracy: 49.87%
+{"train_lr": 0.003867209713534635, "train_loss": 5.110255166048503, "test_loss": 2.302062261218842, "test_acc1": 49.79, "test_acc5": 77.37, "epoch": 20, "n_parameters": 87715808}
+Training epoch 20 for 0:09:05
+Accuracy of the network on the 20000 test images: 50.4%
+Max accuracy: 50.39%
+{"train_lr": 0.003841076406375244, "train_loss": 5.067662467087171, "test_loss": 2.2657567666361507, "test_acc1": 50.39, "test_acc5": 77.77, "epoch": 21, "n_parameters": 87715808}
+Training epoch 21 for 0:09:08
+Accuracy of the network on the 20000 test images: 51.5%
+Max accuracy: 51.48%
+{"train_lr": 0.0038127006403837023, "train_loss": 5.062945724455691, "test_loss": 2.247010690906939, "test_acc1": 51.485, "test_acc5": 78.44, "epoch": 22, "n_parameters": 87715808}
+Training epoch 22 for 0:09:05
+Accuracy of the network on the 20000 test images: 52.0%
+Max accuracy: 52.02%
+{"train_lr": 0.0037821169870599705, "train_loss": 5.016466939712756, "test_loss": 2.20183234759413, "test_acc1": 52.025, "test_acc5": 78.5, "epoch": 23, "n_parameters": 87715808}
+Training epoch 23 for 0:09:06
+Accuracy of the network on the 20000 test images: 52.3%
+Max accuracy: 52.30%
+{"train_lr": 0.0037493627078745736, "train_loss": 4.969650898322216, "test_loss": 2.205088955525773, "test_acc1": 52.305, "test_acc5": 78.98, "epoch": 24, "n_parameters": 87715808}
+Training epoch 24 for 0:09:07
+Accuracy of the network on the 20000 test images: 52.8%
+Max accuracy: 52.81%
+{"train_lr": 0.003714477708871301, "train_loss": 4.985282432703682, "test_loss": 2.1816083785063163, "test_acc1": 52.81, "test_acc5": 79.3, "epoch": 25, "n_parameters": 87715808}
+Training epoch 25 for 0:09:06
+Accuracy of the network on the 20000 test images: 53.4%
+Max accuracy: 53.44%
+{"train_lr": 0.00367750449204777, "train_loss": 4.942977041895218, "test_loss": 2.131833006970037, "test_acc1": 53.435, "test_acc5": 79.965, "epoch": 26, "n_parameters": 87715808}
+Training epoch 26 for 0:09:06
+Accuracy of the network on the 20000 test images: 53.7%
+Max accuracy: 53.69%
+{"train_lr": 0.0036384881035733847, "train_loss": 4.917236339453176, "test_loss": 2.1178197735033857, "test_acc1": 53.685, "test_acc5": 80.425, "epoch": 27, "n_parameters": 87715808}
+Training epoch 27 for 0:09:04
+Accuracy of the network on the 20000 test images: 54.0%
+Max accuracy: 54.04%
+{"train_lr": 0.0035974760789075832, "train_loss": 4.8663345463368115, "test_loss": 2.105472619541156, "test_acc1": 54.04, "test_acc5": 80.42, "epoch": 28, "n_parameters": 87715808}
+Training epoch 28 for 0:09:05
+Accuracy of the network on the 20000 test images: 55.0%
+Max accuracy: 54.99%
+{"train_lr": 0.0035545183848849017, "train_loss": 4.861433748843262, "test_loss": 2.0562259432987666, "test_acc1": 54.995, "test_acc5": 80.685, "epoch": 29, "n_parameters": 87715808}
+Training epoch 29 for 0:09:04
+Accuracy of the network on the 20000 test images: 54.6%
+Max accuracy: 54.99%
+{"train_lr": 0.003509667358838464, "train_loss": 4.825216088242294, "test_loss": 2.0463405253407294, "test_acc1": 54.615, "test_acc5": 80.735, "epoch": 30, "n_parameters": 87715808}
+Training epoch 30 for 0:09:03
+Accuracy of the network on the 20000 test images: 54.9%
+Max accuracy: 54.99%
+{"train_lr": 0.003462977644834603, "train_loss": 4.819378943996535, "test_loss": 2.066845143755404, "test_acc1": 54.855, "test_acc5": 80.825, "epoch": 31, "n_parameters": 87715808}
+Training epoch 31 for 0:09:04
+Accuracy of the network on the 20000 test images: 55.4%
+Max accuracy: 55.41%
+{"train_lr": 0.003414506127098014, "train_loss": 4.773184747985713, "test_loss": 2.020002770157287, "test_acc1": 55.405, "test_acc5": 81.23, "epoch": 32, "n_parameters": 87715808}
+Training epoch 32 for 0:09:10
+Accuracy of the network on the 20000 test images: 55.7%
+Max accuracy: 55.73%
+{"train_lr": 0.0033643118607064736, "train_loss": 4.7583829209290815, "test_loss": 2.013713668520077, "test_acc1": 55.735, "test_acc5": 81.395, "epoch": 33, "n_parameters": 87715808}
+Training epoch 33 for 0:09:08
+Accuracy of the network on the 20000 test images: 56.9%
+Max accuracy: 56.85%
+{"train_lr": 0.0033124559996417237, "train_loss": 4.738321465023315, "test_loss": 1.9962107541081242, "test_acc1": 56.855, "test_acc5": 81.645, "epoch": 34, "n_parameters": 87715808}
+Training epoch 34 for 0:09:08
+Accuracy of the network on the 20000 test images: 56.8%
+Max accuracy: 56.85%
+{"train_lr": 0.0032590017222827775, "train_loss": 4.729922898237218, "test_loss": 1.9784285725115207, "test_acc1": 56.79, "test_acc5": 82.095, "epoch": 35, "n_parameters": 87715808}
+Training epoch 35 for 0:09:06
+Accuracy of the network on the 20000 test images: 56.8%
+Max accuracy: 56.85%
+{"train_lr": 0.0032040141544326067, "train_loss": 4.695448649654073, "test_loss": 1.9632357612204627, "test_acc1": 56.765, "test_acc5": 82.215, "epoch": 36, "n_parameters": 87715808}
+Training epoch 36 for 0:09:08
+Accuracy of the network on the 20000 test images: 57.2%
+Max accuracy: 57.17%
+{"train_lr": 0.0031475602899723285, "train_loss": 4.688136325751879, "test_loss": 1.9675803081676984, "test_acc1": 57.175, "test_acc5": 82.02, "epoch": 37, "n_parameters": 87715808}
+Training epoch 37 for 0:09:10
+Accuracy of the network on the 20000 test images: 57.8%
+Max accuracy: 57.78%
+{"train_lr": 0.003089708909239866, "train_loss": 4.6590921554117575, "test_loss": 1.9177208064844051, "test_acc1": 57.78, "test_acc5": 82.68, "epoch": 38, "n_parameters": 87715808}
+Training epoch 38 for 0:09:08
+Accuracy of the network on the 20000 test images: 57.7%
+Max accuracy: 57.78%
+{"train_lr": 0.00303053049523124, "train_loss": 4.641935551759288, "test_loss": 1.9037869540266334, "test_acc1": 57.705, "test_acc5": 82.75, "epoch": 39, "n_parameters": 87715808}
+Training epoch 39 for 0:09:06
+Accuracy of the network on the 20000 test images: 58.3%
+Max accuracy: 58.33%
+{"train_lr": 0.0029700971477281866, "train_loss": 4.612609987759458, "test_loss": 1.8810231032462927, "test_acc1": 58.325, "test_acc5": 82.855, "epoch": 40, "n_parameters": 87715808}
+Training epoch 40 for 0:09:11
+Accuracy of the network on the 20000 test images: 58.2%
+Max accuracy: 58.33%
+{"train_lr": 0.0029084824954556483, "train_loss": 4.60502130451782, "test_loss": 1.8905431696782098, "test_acc1": 58.17, "test_acc5": 83.28, "epoch": 41, "n_parameters": 87715808}
+Training epoch 41 for 0:09:07
+Accuracy of the network on the 20000 test images: 58.7%
+Max accuracy: 58.72%
+{"train_lr": 0.0028457616063763723, "train_loss": 4.578314106899072, "test_loss": 1.8572980643461308, "test_acc1": 58.72, "test_acc5": 83.39, "epoch": 42, "n_parameters": 87715808}
+Training epoch 42 for 0:09:09
+Accuracy of the network on the 20000 test images: 59.0%
+Max accuracy: 58.98%
+{"train_lr": 0.0027820108962323177, "train_loss": 4.555298860099434, "test_loss": 1.856829642297361, "test_acc1": 58.975, "test_acc5": 83.28, "epoch": 43, "n_parameters": 87715808}
+Training epoch 43 for 0:09:09
+Accuracy of the network on the 20000 test images: 59.3%
+Max accuracy: 59.34%
+{"train_lr": 0.002717308035443737, "train_loss": 4.53923519704882, "test_loss": 1.8358607258850013, "test_acc1": 59.335, "test_acc5": 83.695, "epoch": 44, "n_parameters": 87715808}
+Training epoch 44 for 0:09:08
+Accuracy of the network on the 20000 test images: 59.2%
+Max accuracy: 59.34%
+{"train_lr": 0.0026517318544797266, "train_loss": 4.530605996906428, "test_loss": 1.8375203777045106, "test_acc1": 59.22, "test_acc5": 83.63, "epoch": 45, "n_parameters": 87715808}
+Training epoch 45 for 0:09:06
+Accuracy of the network on the 20000 test images: 59.9%
+Max accuracy: 59.91%
+{"train_lr": 0.002585362247815636, "train_loss": 4.500442182688423, "test_loss": 1.8110565072812213, "test_acc1": 59.905, "test_acc5": 83.825, "epoch": 46, "n_parameters": 87715808}
+Training epoch 46 for 0:09:09
+Accuracy of the network on the 20000 test images: 59.5%
+Max accuracy: 59.91%
+{"train_lr": 0.0025182800765937013, "train_loss": 4.489428490301522, "test_loss": 1.8243748051480364, "test_acc1": 59.51, "test_acc5": 83.655, "epoch": 47, "n_parameters": 87715808}
+Training epoch 47 for 0:09:05
+Accuracy of the network on the 20000 test images: 59.9%
+Max accuracy: 59.91%
+{"train_lr": 0.0024505670701063663, "train_loss": 4.478835498693898, "test_loss": 1.8042508463699596, "test_acc1": 59.905, "test_acc5": 83.85, "epoch": 48, "n_parameters": 87715808}
+Training epoch 48 for 0:09:08
+Accuracy of the network on the 20000 test images: 60.0%
+Max accuracy: 59.96%
+{"train_lr": 0.0023823057262215876, "train_loss": 4.4542910492881225, "test_loss": 1.7977312355757522, "test_acc1": 59.96, "test_acc5": 84.005, "epoch": 49, "n_parameters": 87715808}
+Training epoch 49 for 0:09:09
+Accuracy of the network on the 20000 test images: 60.3%
+Max accuracy: 60.28%
+{"train_lr": 0.002313579210872097, "train_loss": 4.433385337979754, "test_loss": 1.780641376400908, "test_acc1": 60.28, "test_acc5": 84.055, "epoch": 50, "n_parameters": 87715808}
+Training epoch 50 for 0:09:09
+Accuracy of the network on the 20000 test images: 60.4%
+Max accuracy: 60.44%
+{"train_lr": 0.0022444712567303167, "train_loss": 4.412181982677945, "test_loss": 1.7676596192125313, "test_acc1": 60.435, "test_acc5": 84.18, "epoch": 51, "n_parameters": 87715808}
+Training epoch 51 for 0:09:08
+Accuracy of the network on the 20000 test images: 61.0%
+Max accuracy: 60.99%
+{"train_lr": 0.002175066061193087, "train_loss": 4.407053426352654, "test_loss": 1.763926854720131, "test_acc1": 60.99, "test_acc5": 84.72, "epoch": 52, "n_parameters": 87715808}
+Training epoch 52 for 0:09:08
+Accuracy of the network on the 20000 test images: 61.5%
+Max accuracy: 61.55%
+{"train_lr": 0.002105448183800142, "train_loss": 4.388201582958685, "test_loss": 1.7467732189562375, "test_acc1": 61.545, "test_acc5": 84.475, "epoch": 53, "n_parameters": 87715808}
+Training epoch 53 for 0:09:09
+Accuracy of the network on the 20000 test images: 61.1%
+Max accuracy: 61.55%
+{"train_lr": 0.0020357024432112692, "train_loss": 4.379467282505984, "test_loss": 1.7440500366992462, "test_acc1": 61.125, "test_acc5": 84.72, "epoch": 54, "n_parameters": 87715808}
+Training epoch 54 for 0:09:07
+Accuracy of the network on the 20000 test images: 61.6%
+Max accuracy: 61.62%
+{"train_lr": 0.001965913813867841, "train_loss": 4.33677432188013, "test_loss": 1.7287542023978675, "test_acc1": 61.62, "test_acc5": 85.01, "epoch": 55, "n_parameters": 87715808}
+Training epoch 55 for 0:09:12
+Accuracy of the network on the 20000 test images: 61.8%
+Max accuracy: 61.80%
+{"train_lr": 0.0018961673224646548, "train_loss": 4.3214236742225145, "test_loss": 1.731923520755463, "test_acc1": 61.795, "test_acc5": 84.725, "epoch": 56, "n_parameters": 87715808}
+Training epoch 56 for 0:09:08
+Accuracy of the network on the 20000 test images: 61.9%
+Max accuracy: 61.91%
+{"train_lr": 0.0018265479443577985, "train_loss": 4.31945478863479, "test_loss": 1.7182231143640634, "test_acc1": 61.905, "test_acc5": 84.75, "epoch": 57, "n_parameters": 87715808}
+Training epoch 57 for 0:09:08
+Accuracy of the network on the 20000 test images: 61.9%
+Max accuracy: 61.92%
+{"train_lr": 0.0017571405000355064, "train_loss": 4.298633284463408, "test_loss": 1.7230231718133433, "test_acc1": 61.92, "test_acc5": 84.78, "epoch": 58, "n_parameters": 87715808}
+Training epoch 58 for 0:09:08
+Accuracy of the network on the 20000 test images: 62.2%
+Max accuracy: 62.18%
+{"train_lr": 0.001688029551777251, "train_loss": 4.294577836134157, "test_loss": 1.7141084040696628, "test_acc1": 62.18, "test_acc5": 84.975, "epoch": 59, "n_parameters": 87715808}
+Training epoch 59 for 0:09:08
+Accuracy of the network on the 20000 test images: 62.0%
+Max accuracy: 62.18%
+{"train_lr": 0.0016192993006277547, "train_loss": 4.262820393802053, "test_loss": 1.7062285896688223, "test_acc1": 61.97, "test_acc5": 85.065, "epoch": 60, "n_parameters": 87715808}
+Training epoch 60 for 0:09:04
+Accuracy of the network on the 20000 test images: 62.5%
+Max accuracy: 62.48%
+{"train_lr": 0.001551033483811007, "train_loss": 4.264171859440882, "test_loss": 1.6940198988198472, "test_acc1": 62.475, "test_acc5": 85.18, "epoch": 61, "n_parameters": 87715808}
+Training epoch 61 for 0:09:09
+Accuracy of the network on the 20000 test images: 62.5%
+Max accuracy: 62.52%
+{"train_lr": 0.0014833152727092148, "train_loss": 4.231026268598124, "test_loss": 1.6892292530011064, "test_acc1": 62.515, "test_acc5": 85.115, "epoch": 62, "n_parameters": 87715808}
+Training epoch 62 for 0:09:06
+Accuracy of the network on the 20000 test images: 62.6%
+Max accuracy: 62.62%
+{"train_lr": 0.0014162271715314164, "train_loss": 4.247434420019223, "test_loss": 1.6931113169406549, "test_acc1": 62.615, "test_acc5": 85.205, "epoch": 63, "n_parameters": 87715808}
+Training epoch 63 for 0:09:06
+Accuracy of the network on the 20000 test images: 62.3%
+Max accuracy: 62.62%
+{"train_lr": 0.0013498509167947984, "train_loss": 4.205719823929487, "test_loss": 1.690967422514297, "test_acc1": 62.275, "test_acc5": 85.23, "epoch": 64, "n_parameters": 87715808}
+Training epoch 64 for 0:09:03
+Accuracy of the network on the 20000 test images: 63.1%
+Max accuracy: 63.12%
+{"train_lr": 0.0012842673777412454, "train_loss": 4.204439237368041, "test_loss": 1.6732921348973966, "test_acc1": 63.115, "test_acc5": 85.29, "epoch": 65, "n_parameters": 87715808}
+Training epoch 65 for 0:09:09
+Accuracy of the network on the 20000 test images: 63.1%
+Max accuracy: 63.14%
+{"train_lr": 0.0012195564578107256, "train_loss": 4.16405209335833, "test_loss": 1.6606208758232313, "test_acc1": 63.14, "test_acc5": 85.405, "epoch": 66, "n_parameters": 87715808}
+Training epoch 66 for 0:09:07
+Accuracy of the network on the 20000 test images: 63.0%
+Max accuracy: 63.14%
+{"train_lr": 0.0011557969972912534, "train_loss": 4.18374066207949, "test_loss": 1.6746420682238314, "test_acc1": 63.05, "test_acc5": 85.315, "epoch": 67, "n_parameters": 87715808}
+Training epoch 67 for 0:09:04
+Accuracy of the network on the 20000 test images: 63.4%
+Max accuracy: 63.41%
+{"train_lr": 0.0010930666772640588, "train_loss": 4.155376386411941, "test_loss": 1.6571103925712574, "test_acc1": 63.405, "test_acc5": 85.55, "epoch": 68, "n_parameters": 87715808}
+Training epoch 68 for 0:09:08
+Accuracy of the network on the 20000 test images: 63.2%
+Max accuracy: 63.41%
+{"train_lr": 0.0010314419249612193, "train_loss": 4.152558494997288, "test_loss": 1.673636162909456, "test_acc1": 63.24, "test_acc5": 85.38, "epoch": 69, "n_parameters": 87715808}
+Training epoch 69 for 0:09:04
+Accuracy of the network on the 20000 test images: 63.6%
+Max accuracy: 63.63%
+{"train_lr": 0.000970997820650859, "train_loss": 4.146901814450216, "test_loss": 1.6478878241567947, "test_acc1": 63.63, "test_acc5": 85.415, "epoch": 70, "n_parameters": 87715808}
+Training epoch 70 for 0:09:06
+Accuracy of the network on the 20000 test images: 63.3%
+Max accuracy: 63.63%
+{"train_lr": 0.0009118080061633882, "train_loss": 4.129382851374084, "test_loss": 1.6514025595241462, "test_acc1": 63.32, "test_acc5": 85.515, "epoch": 71, "n_parameters": 87715808}
+Training epoch 71 for 0:09:04
+Accuracy of the network on the 20000 test images: 63.4%
+Max accuracy: 63.63%
+{"train_lr": 0.0008539445951702629, "train_loss": 4.118973011469973, "test_loss": 1.6575461642239422, "test_acc1": 63.415, "test_acc5": 85.44, "epoch": 72, "n_parameters": 87715808}
+Training epoch 72 for 0:09:04
+Accuracy of the network on the 20000 test images: 63.4%
+Max accuracy: 63.63%
+{"train_lr": 0.000797478085324592, "train_loss": 4.0895818610546995, "test_loss": 1.6592428262431782, "test_acc1": 63.405, "test_acc5": 85.47, "epoch": 73, "n_parameters": 87715808}
+Training epoch 73 for 0:09:04
+Accuracy of the network on the 20000 test images: 63.8%
+Max accuracy: 63.77%
+{"train_lr": 0.0007424772723706434, "train_loss": 4.086923537135783, "test_loss": 1.6441786450128586, "test_acc1": 63.775, "test_acc5": 85.58, "epoch": 74, "n_parameters": 87715808}
+Training epoch 74 for 0:09:07
+Accuracy of the network on the 20000 test images: 63.8%
+Max accuracy: 63.84%
+{"train_lr": 0.0006890091663267658, "train_loss": 4.083130312361111, "test_loss": 1.6438243824262588, "test_acc1": 63.845, "test_acc5": 85.785, "epoch": 75, "n_parameters": 87715808}
+Training epoch 75 for 0:09:06
+Accuracy of the network on the 20000 test images: 64.2%
+Max accuracy: 64.21%
+{"train_lr": 0.0006371389098440376, "train_loss": 4.095896126157013, "test_loss": 1.6335286155295448, "test_acc1": 64.21, "test_acc5": 85.91, "epoch": 76, "n_parameters": 87715808}
+Training epoch 76 for 0:09:07
+Accuracy of the network on the 20000 test images: 64.3%
+Max accuracy: 64.31%
+{"train_lr": 0.0005869296988399898, "train_loss": 4.070906988164997, "test_loss": 1.6297002812734427, "test_acc1": 64.315, "test_acc5": 85.57, "epoch": 77, "n_parameters": 87715808}
+Training epoch 77 for 0:09:06
+Accuracy of the network on the 20000 test images: 64.1%
+Max accuracy: 64.31%
+{"train_lr": 0.0005384427055040928, "train_loss": 4.058135026364036, "test_loss": 1.6355327888609121, "test_acc1": 64.075, "test_acc5": 85.645, "epoch": 78, "n_parameters": 87715808}
+Training epoch 78 for 0:09:04
+Accuracy of the network on the 20000 test images: 64.1%
+Max accuracy: 64.31%
+{"train_lr": 0.000491737003768879, "train_loss": 4.0665006188397905, "test_loss": 1.63993066939683, "test_acc1": 64.125, "test_acc5": 85.66, "epoch": 79, "n_parameters": 87715808}
+Training epoch 79 for 0:09:04
+Accuracy of the network on the 20000 test images: 64.2%
+Max accuracy: 64.31%
+{"train_lr": 0.0004468694973374505, "train_loss": 4.034918099938176, "test_loss": 1.6295189431871469, "test_acc1": 64.185, "test_acc5": 85.815, "epoch": 80, "n_parameters": 87715808}
+Training epoch 80 for 0:09:04
+Accuracy of the network on the 20000 test images: 64.5%
+Max accuracy: 64.53%
+{"train_lr": 0.0004038948503550779, "train_loss": 4.023929127013486, "test_loss": 1.633528377301396, "test_acc1": 64.525, "test_acc5": 85.815, "epoch": 81, "n_parameters": 87715808}
+Training epoch 81 for 0:09:07
+Accuracy of the network on the 20000 test images: 64.5%
+Max accuracy: 64.53%
+{"train_lr": 0.0003628654208093816, "train_loss": 4.043126158358643, "test_loss": 1.6383727041486733, "test_acc1": 64.475, "test_acc5": 85.815, "epoch": 82, "n_parameters": 87715808}
+Training epoch 82 for 0:09:04
+Accuracy of the network on the 20000 test images: 64.4%
+Max accuracy: 64.53%
+{"train_lr": 0.0003238311967401594, "train_loss": 4.039582300449603, "test_loss": 1.6263996231289337, "test_acc1": 64.37, "test_acc5": 85.81, "epoch": 83, "n_parameters": 87715808}
+Training epoch 83 for 0:09:05
+Accuracy of the network on the 20000 test images: 64.4%
+Max accuracy: 64.53%
+{"train_lr": 0.0002868397353366784, "train_loss": 4.01791612650808, "test_loss": 1.6258629054878466, "test_acc1": 64.43, "test_acc5": 85.89, "epoch": 84, "n_parameters": 87715808}
+Training epoch 84 for 0:09:04
+Accuracy of the network on the 20000 test images: 64.7%
+Max accuracy: 64.72%
+{"train_lr": 0.00025193610499656344, "train_loss": 3.9906688672402946, "test_loss": 1.6250871810288474, "test_acc1": 64.715, "test_acc5": 85.785, "epoch": 85, "n_parameters": 87715808}
+Training epoch 85 for 0:09:06
+Accuracy of the network on the 20000 test images: 64.6%
+Max accuracy: 64.72%
+{"train_lr": 0.00021916283041688845, "train_loss": 4.024879903424511, "test_loss": 1.629258495359756, "test_acc1": 64.62, "test_acc5": 85.785, "epoch": 86, "n_parameters": 87715808}
+Training epoch 86 for 0:09:04
+Accuracy of the network on the 20000 test images: 64.7%
+Max accuracy: 64.72%
+{"train_lr": 0.00018855984078439445, "train_loss": 3.9803727157866757, "test_loss": 1.6240437465925186, "test_acc1": 64.685, "test_acc5": 85.77, "epoch": 87, "n_parameters": 87715808}
+Training epoch 87 for 0:09:05
+Accuracy of the network on the 20000 test images: 64.5%
+Max accuracy: 64.72%
+{"train_lr": 0.0001601644211279202, "train_loss": 4.008764638196039, "test_loss": 1.6240992830774654, "test_acc1": 64.51, "test_acc5": 85.965, "epoch": 88, "n_parameters": 87715808}
+Training epoch 88 for 0:09:05
+Accuracy of the network on the 20000 test images: 64.7%
+Max accuracy: 64.72%
+{"train_lr": 0.0001340111668923365, "train_loss": 3.9835052649289864, "test_loss": 1.6236766357772268, "test_acc1": 64.68, "test_acc5": 85.795, "epoch": 89, "n_parameters": 87715808}
+Training epoch 89 for 0:09:05
+Accuracy of the network on the 20000 test images: 64.6%
+Max accuracy: 64.72%
+{"train_lr": 0.00011013194178933155, "train_loss": 3.9881272691389476, "test_loss": 1.6194870369122052, "test_acc1": 64.645, "test_acc5": 85.94, "epoch": 90, "n_parameters": 87715808}
+Training epoch 90 for 0:09:05
+Accuracy of the network on the 20000 test images: 64.6%
+Max accuracy: 64.72%
+{"train_lr": 8.855583897637936e-05, "train_loss": 3.9810932723856762, "test_loss": 1.6213276070146896, "test_acc1": 64.61, "test_acc5": 85.805, "epoch": 91, "n_parameters": 87715808}
+Training epoch 91 for 0:09:05
+Accuracy of the network on the 20000 test images: 64.7%
+Max accuracy: 64.72%
+{"train_lr": 6.930914561121338e-05, "train_loss": 3.985270067045043, "test_loss": 1.6205069230387386, "test_acc1": 64.65, "test_acc5": 85.96, "epoch": 92, "n_parameters": 87715808}
+Training epoch 92 for 0:09:04
+Accuracy of the network on the 20000 test images: 64.6%
+Max accuracy: 64.72%
+{"train_lr": 5.2415310824973756e-05, "train_loss": 3.9931197071931637, "test_loss": 1.6200995868006454, "test_acc1": 64.585, "test_acc5": 85.915, "epoch": 93, "n_parameters": 87715808}
+Training epoch 93 for 0:09:04
+Accuracy of the network on the 20000 test images: 64.6%
+Max accuracy: 64.72%
+{"train_lr": 3.7894917153050914e-05, "train_loss": 3.9762349247932436, "test_loss": 1.6192593313634587, "test_acc1": 64.58, "test_acc5": 85.875, "epoch": 94, "n_parameters": 87715808}
+Training epoch 94 for 0:09:05
+Accuracy of the network on the 20000 test images: 64.6%
+Max accuracy: 64.72%
+{"train_lr": 2.57656554584402e-05, "train_loss": 3.9869266930206044, "test_loss": 1.618900302880869, "test_acc1": 64.625, "test_acc5": 85.95, "epoch": 95, "n_parameters": 87715808}
+Training epoch 95 for 0:09:04
+Accuracy of the network on the 20000 test images: 64.6%
+Max accuracy: 64.72%
+{"train_lr": 1.604230337814638e-05, "train_loss": 3.966958743432609, "test_loss": 1.6181944232588759, "test_acc1": 64.58, "test_acc5": 85.94, "epoch": 96, "n_parameters": 87715808}
+Training epoch 96 for 0:09:04
+Accuracy of the network on the 20000 test images: 64.6%
+Max accuracy: 64.72%
+{"train_lr": 8.736707318911482e-06, "train_loss": 3.9665890771381105, "test_loss": 1.6195957060819997, "test_acc1": 64.57, "test_acc5": 85.89, "epoch": 97, "n_parameters": 87715808}
+Training epoch 97 for 0:09:04
+Accuracy of the network on the 20000 test images: 64.6%
+Max accuracy: 64.72%
+{"train_lr": 3.857768024193062e-06, "train_loss": 3.976504348160812, "test_loss": 1.6191535265491412, "test_acc1": 64.595, "test_acc5": 85.88, "epoch": 98, "n_parameters": 87715808}
+Training epoch 98 for 0:09:05
+Accuracy of the network on the 20000 test images: 64.6%
+Max accuracy: 64.72%
+{"train_lr": 1.4114297299787852e-06, "train_loss": 3.972051675378947, "test_loss": 1.6191104891391608, "test_acc1": 64.6, "test_acc5": 85.88, "epoch": 99, "n_parameters": 87715808}
+Training epoch 99 for 0:09:07
+Total training time 15:11:34
