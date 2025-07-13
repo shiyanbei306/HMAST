@@ -103,8 +103,7 @@ Balanced Finetuned Models and Masked Generative Pretrained Models.
     <td class="tg-57iy">61.5</td>
     <td class="tg-57iy">42.3</td>
     <td class="tg-57iy">64.7</td>
-
-    </tr>
+</tr>
   <tr>
     <td class="tg-57iy">iNat18</td>
     <td class="tg-57iy">224*224</td>
@@ -112,7 +111,6 @@ Balanced Finetuned Models and Masked Generative Pretrained Models.
     <td class="tg-57iy">78.6</td>
     <td class="tg-57iy">78.8</td>
     <td class="tg-57iy">78.6</td>
-    
   </tr>
   <tr>
     <td class="tg-nrix">Places-LT</td>
@@ -121,7 +119,6 @@ Balanced Finetuned Models and Masked Generative Pretrained Models.
     <td class="tg-nrix">37.8</td>
     <td class="tg-nrix">26.5</td>
     <td class="tg-nrix">38.4</td>
-
   </tr>
 </tbody>
 </table>
